@@ -44,3 +44,7 @@ body {
   border-bottom: 1px solid #ddd;
   padding: 10px;
 }
+
+.date-time {
+  min-height: 2.5rem;
+}
